@@ -1,2 +1,2 @@
-# hell0-world
+# hello-world
 just an example
